@@ -1,3 +1,8 @@
+# This repository is to learn how to create one and 
+# connect it to the local repository.
+
+
+
 # Data analysis
 - Document here the project: first_project
 - Description: Project Description
