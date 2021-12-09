@@ -1,4 +1,4 @@
-# Data analysis
+# Key words with NLP
 - Description: Find Key words in research article titles
 - Data Source: https://www.kaggle.com/vetrirah/janatahack-independence-day-2020-ml-hackathon
 - Type of analysis: Natrual language processing 
